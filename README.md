@@ -2,8 +2,13 @@
 
 [網頁DEMO連結](http://jobvacancyplatform.ddns.net/)
 
+* 首頁
 ![image](https://imgur.com/uztd3RA.jpg)
+
+* 工作資訊
 ![image](https://imgur.com/RKMFDi6.jpg)
+
+* 後台管理文章介面
 ![image](https://imgur.com/nlkF1xG.jpg)
 
 
